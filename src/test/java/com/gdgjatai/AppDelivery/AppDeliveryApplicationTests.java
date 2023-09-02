@@ -1,4 +1,4 @@
-package com.deliverygdg.AppDelivery;
+package com.gdgjatai.AppDelivery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
